@@ -1,0 +1,6 @@
+print("---- Challenge 02 ----")
+name = input("Digite seu nome: ")
+day_birth = input("Digite o dia do sue nascimento: ")
+month_birth = input("Digite o mês do seu nascimento: ")
+year_birth = input("Digite o ano do seu nascimento: ")
+print("Hey,", name,"você nasceu em: ",day_birth,"/",month_birth,"/",year_birth)

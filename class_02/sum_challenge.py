@@ -1,0 +1,6 @@
+print("---- Challenge 03 ----")
+print(" ")
+number_01 = int(input("Numero 1: "))
+number_02 = int(input("Numero 2: "))
+total_soma = (number_01 + number_02)
+print(total_soma)
